@@ -1,3 +1,4 @@
+//Good luck with the course!
 /* Copyright (C) 2024 Hong Kong University of Science and Technology
 
 This repository is used for the Computer Networks (ELEC 3120) 
